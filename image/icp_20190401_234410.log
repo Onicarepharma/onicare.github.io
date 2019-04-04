@@ -1,0 +1,107 @@
+Start at Monday, April 01, 2019    23:44:10
+=========================================
+
+Registration Info : 
+Unique Info : 7C975F5600000005-3EDD6011
+
+Windows Version:
+Win7 _x64
+Module Info:
+Company: fCoder Solutions Sp. z o.o.
+Product Name: ImageConverter Plus
+Product Version: 9.0.520.170301
+
+CPU Info:
+Mode: x32 bit
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Unknown P6 family
+Procesor Clock Frequecy: 1799
+Logical processors per physical: 16
+Stepping code: 10
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: -1
+L2 cache size: -1
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1920
+Pixel Height: 1080
+Refresh frequency: 60 Hz
+
+Internet Explorer Version: 10.0
+Build Number: 10586
+
+Printers list: 
+Send To OneNote 2016
+OneNote
+Microsoft XPS Document Writer
+Microsoft Print to PDF
+HP Deskjet 2510 series
+Fax
+Canon TS200 series
+
+Default printer: 
+Canon TS200 series
+
+
+Profile settings:
+
+Operations:
+
+Format properties:
+    Extension: jpg
+    bits per pixel for baseline mode : 24
+    compression quality : 75
+    compression mode : baseline
+    compression sample : 111
+    create thumbnail : No
+    save exif information : Yes
+    save iptc information : Yes
+    lossless predictor (-1 for auto select) : -1
+    restart interval in MCU-rows : 0
+    interleaved : yes
+    optimize huffman codes : yes
+
+Save properties:
+    Destination path: C:\Users\Jonel Umbal\Desktop\OPT\image
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 1
+
+RAM free    :     498.1 of    2048.0 Mb
+Virtual free:    1758.5 of    2047.9 Mb
+Target free disk space : 1222307.0 of 1906588.0 Mb
+Temp free disk space   : 1222307.0 of 1906588.0 Mb
+
+Src info : C:\Users\Jonel Umbal\Desktop\OPT\image\yahoo.jpg.png
+png, 310x163px, 8bpp, 1 page(s), 96.000000x96.000000 dpi, 6278 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : C:\Users\Jonel Umbal\Desktop\OPT\image\yahoo.jpg.jpg
+jpg, 310x163px, 24bpp, 1 page(s), 96.000000x96.000000 dpi, 6147 bytes
+
+Complete at Monday, April 01, 2019    23:44:12
+=========================================
